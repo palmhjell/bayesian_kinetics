@@ -1,6 +1,6 @@
 # bayesian_kinetics
 
-## Code for Rix et al. TrpB+OrthoRep evolved variant kinetics
+## Code for Rix et al. 2020.
 
 ### Required packages
 - python >= 3.6
@@ -12,6 +12,6 @@
 - statsmodels
 - jupyterlab
 
-See the jupyter notebook (`example_notebook.ipynb`) for specific background and examples. It can be rendered by GitHub in your browser window simply by clicking on the file in GitHub, no jupyter (or python) necessary, if you'd like to read through and see the examples without needing to run them.
+See the jupyter notebook html (`example_notebook.html`) for specific background and examples. Once downloaded, it can be redered directly in a browser, no jupyter (or python) necessary, if you'd like to read through and see the examples without needing to run them.
 
 Over time this repo will be updated to be a more general resource, while still retaining the paper-specific code.
